@@ -97,7 +97,7 @@ h1 {
     font-size: 3.75rem;
     line-height: 4.25rem;
     font-weight: 700;
-    color: var(--text-white);
+    color: var(--secondary-text);
     margin-bottom: 1.25rem;
     text-transform: uppercase;
     font-family: var(--secondary-font);
